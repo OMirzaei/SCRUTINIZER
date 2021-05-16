@@ -34,7 +34,7 @@ Please, send an email to o.[lastname of the first author]@northeastern.edu with 
 1. The name and address of your institution
 2. The name of your advisor (for students)
 3. Your Github handle
-4. A brief explanation about why you’d like to download our code and data.
+4. A brief explanation about why you’d like to download our code and data
 
 <b>We politely ask users of our code and data to acknowledge the origin of these information in their publications and research works.</b>
 
