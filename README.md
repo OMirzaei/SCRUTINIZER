@@ -42,3 +42,18 @@ ACKNOWLEDGEMENT:
 -----------------------------
 
 This work was partially-supported by National Science Foundation (NSF) under grant CNS-1703454, and the Office of Naval Research (ONR) under the “In Situ Malware” project. This work was also partially-supported by Secure Business Austria.
+
+ACCESS REQUESTS:
+-----------------------------
+
+A list of companies and universities that have requested access to this repository can be found below:
+
+1. Sue B.V., Netherlands 
+
+
+
+
+
+
+
+
