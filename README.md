@@ -29,7 +29,7 @@ Due to the sensitivity of this research area, we request that applicants:
 1. Do not redistribute the code, data and other information without our consent.
 2. Do not make a commercial usage of our code and data.
 
-Please, send an email to o.[lastname of the first author]@northeastern.edu with this title: “Access to SCRUTINIZER”. Make sure you are sending this email from your university (or research institution) email account. If you are a student, cc a faculty or someone in a permanent position (e.g., your advisor) from your institution. In the body of email, introduce yourself completely and provide the below details:
+Please, send an email to omid.[lastname of the first author]@elastic.co with this title: “Access to SCRUTINIZER”. Make sure you are sending this email from your university (or research institution) email account. If you are a student, cc a faculty or someone in a permanent position (e.g., your advisor) from your institution. In the body of email, introduce yourself completely and provide the below details:
 
 1. The name and address of your institution
 2. The name of your advisor (for students)
