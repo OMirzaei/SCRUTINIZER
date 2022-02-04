@@ -46,7 +46,7 @@ This work was partially-supported by National Science Foundation (NSF) under gra
 ACCESS REQUESTS:
 -----------------------------
 
-A list of companies and universities that have requested access to this repository can be found below:
+A list of companies, universities and laboratories that have requested access to this repository can be found below:
 
 1. Sue B.V., Netherlands 
 2. U.S. Naval Research Laboratory, Washington, D.C., USA
