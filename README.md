@@ -21,6 +21,16 @@ PUBLICATION:
 O. Mirzaei, R. Vasilenko, E. Kirda, L. Lu, A. Kharraz <br />
 International Conference on Detection of Intrusions and Malware, and Vulnerability Assessment (DIMVA), Online (July 2021) <br />
 
+ACCESS INSTRUCTIONS:
+----------------------------------------
+
+Due to the sensitivity of this research area, we request that applicants:
+
+1. Do not redistribute the code, data and other information without our consent.
+2. Do not make a commercial usage of our code and data.
+
+Please, send an email to omid.[lastname of the first author]@gmail.com with this title: “Access to SCRUTINIZER”.
+
 ACKNOWLEDGEMENT:
 -----------------------------
 
